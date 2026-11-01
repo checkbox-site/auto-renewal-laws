@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, with the version from data/VERSION."
+type: dataset
+title: "US Subscription Auto-Renewal Requirements Dataset"
+authors:
+  - name: "Checkbox"
+    website: "https://checkbox.site"
+url: "https://checkbox.site/laws/data"
+repository: "https://github.com/checkbox-site/auto-renewal-laws"
+license: CC-BY-4.0
+keywords:
+  - automatic renewal law
+  - subscriptions
+  - ROSCA
+  - consumer protection
+  - negative option
+  - click to cancel
+abstract: "Requirements of US federal, state, DC and New York City automatic-renewal and negative-option laws for subscription businesses, with citations, primary-source links, effective dates, notice windows and enforcement. Drafted from primary sources; pending attorney review; not legal advice."
